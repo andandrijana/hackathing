@@ -18,7 +18,7 @@
         "AREA_LONG_CODE": 7,
         "AREA_NAME": "Humber River-Black Creek",
         "AREA_DESC": "Humber River-Black Creek (7)",
-        "COVID_CASES": 77;
+        "COVID_CASES": 77,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -3300,7 +3300,7 @@
         "AREA_LONG_CODE": 6,
         "AREA_NAME": "York Centre",
         "AREA_DESC": "York Centre (6)",
-        "COVID_CASES": 172;
+        "COVID_CASES": 172,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -6178,7 +6178,7 @@
         "AREA_LONG_CODE": 18,
         "AREA_NAME": "Willowdale",
         "AREA_DESC": "Willowdale (18)",
-        "COVID_CASES": 147;
+        "COVID_CASES": 147,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -7748,7 +7748,7 @@
         "AREA_LONG_CODE": 11,
         "AREA_NAME": "University-Rosedale",
         "AREA_DESC": "University-Rosedale (11)",
-        "COVID_CASES": 42;
+        "COVID_CASES": 42,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -10678,7 +10678,7 @@
         "AREA_LONG_CODE": 19,
         "AREA_NAME": "Beaches-East York",
         "AREA_DESC": "Beaches-East York (19)",
-        "COVID_CASES": 201;
+        "COVID_CASES": 201,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -15764,7 +15764,7 @@
         "AREA_LONG_CODE": 20,
         "AREA_NAME": "Scarborough Southwest",
         "AREA_DESC": "Scarborough Southwest (20)",
-        "COVID_CASES": 90;
+        "COVID_CASES": 90,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -28706,7 +28706,7 @@
         "AREA_LONG_CODE": 25,
         "AREA_NAME": "Scarborough-Rouge Park",
         "AREA_DESC": "Scarborough-Rouge Park (25)",
-        "COVID_CASES": 307;
+        "COVID_CASES": 307,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -34972,7 +34972,7 @@
         "AREA_LONG_CODE": 23,
         "AREA_NAME": "Scarborough North",
         "AREA_DESC": "Scarborough North (23)",
-        "COVID_CASES": 230;
+        "COVID_CASES": 230,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -37050,7 +37050,7 @@
         "AREA_LONG_CODE": 24,
         "AREA_NAME": "Scarborough-Guildwood",
         "AREA_DESC": "Scarborough-Guildwood (24)",
-        "COVID_CASES": 152;
+        "COVID_CASES": 152,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -43356,7 +43356,7 @@
         "AREA_LONG_CODE": 15,
         "AREA_NAME": "Don Valley West",
         "AREA_DESC": "Don Valley West (15)",
-        "COVID_CASES": 34;
+        "COVID_CASES": 34,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -47006,7 +47006,7 @@
         "AREA_LONG_CODE": 12,
         "AREA_NAME": "Toronto-St. Paul's",
         "AREA_DESC": "Toronto-St. Paul's (12)",
-        "COVID_CASES": 144;
+        "COVID_CASES": 144,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -48248,7 +48248,7 @@
         "AREA_LONG_CODE": 4,
         "AREA_NAME": "Parkdale-High Park",
         "AREA_DESC": "Parkdale-High Park (4)",
-        "COVID_CASES": 203;
+        "COVID_CASES": 203,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -52054,7 +52054,7 @@
         "AREA_LONG_CODE": 1,
         "AREA_NAME": "Etobicoke North",
         "AREA_DESC": "Etobicoke North (1)",
-        "COVID_CASES": 191;
+        "COVID_CASES": 191,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -55952,7 +55952,7 @@
         "AREA_LONG_CODE": 3,
         "AREA_NAME": "Etobicoke-Lakeshore",
         "AREA_DESC": "Etobicoke-Lakeshore (3)",
-        "COVID_CASES": 134;
+        "COVID_CASES": 134,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -69486,7 +69486,7 @@
         "AREA_LONG_CODE": 2,
         "AREA_NAME": "Etobicoke Centre",
         "AREA_DESC": "Etobicoke Centre (2)",
-        "COVID_CASES": 34;
+        "COVID_CASES": 34,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -73824,7 +73824,7 @@
         "AREA_LONG_CODE": 8,
         "AREA_NAME": "Eglinton-Lawrence",
         "AREA_DESC": "Eglinton-Lawrence (8)",
-        "COVID_CASES": 72;
+        "COVID_CASES": 72,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -75746,7 +75746,7 @@
         "AREA_LONG_CODE": 17,
         "AREA_NAME": "Don Valley North",
         "AREA_DESC": "Don Valley North (17)",
-        "COVID_CASES": 142;
+        "COVID_CASES": 142,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -76904,7 +76904,7 @@
         "AREA_LONG_CODE": 16,
         "AREA_NAME": "Don Valley East",
         "AREA_DESC": "Don Valley East (16)",
-        "COVID_CASES": 132;
+        "COVID_CASES": 132,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -79166,7 +79166,7 @@
         "AREA_LONG_CODE": 9,
         "AREA_NAME": "Davenport",
         "AREA_DESC": "Davenport (9)",
-        "COVID_CASES": 250;
+        "COVID_CASES": 250,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -80832,7 +80832,7 @@
         "AREA_LONG_CODE": 13,
         "AREA_NAME": "Toronto Centre",
         "AREA_DESC": "Toronto Centre (13)",
-        "COVID_CASES": 266;
+        "COVID_CASES": 266,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -82614,7 +82614,7 @@
         "AREA_LONG_CODE": 5,
         "AREA_NAME": "York South-Weston",
         "AREA_DESC": "York South-Weston (5)",
-        "COVID_CASES": 199;
+        "COVID_CASES": 199,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
@@ -84960,7 +84960,7 @@
         "AREA_LONG_CODE": 14,
         "AREA_NAME": "Toronto-Danforth",
         "AREA_DESC": "Toronto-Danforth (14)",
-        "COVID_CASES": 102;
+        "COVID_CASES": 102,
         "FEATURE_CODE": null,
         "FEATURE_CODE_DESC": null,
         "TRANS_ID_CREATE": 279754,
